@@ -1,0 +1,21 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "mongoose",
+      "settings": {
+        "filename": ".tmp/test.db",
+        "uri": "mongodb://localhost:27018/digital-retail-test",
+        "database": "digital-retail-test"
+      },
+      "options": {
+        "ssl": false,
+        "useNullAsDefault": true,
+        "pool": {
+          "min": 0,
+          "max": 1
+        }
+      }
+    }
+  }
+}
