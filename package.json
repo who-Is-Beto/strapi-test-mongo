@@ -8,7 +8,7 @@
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi",
-    "test": "jest",
+    "test": "jest --forceExit --detectOpenHandles --verbose false",
     "test:watch": "jest --detectOpenHandles --watch",
     "test:coverage": "jest --detectOpenHandles --forceExit --collectCoverage"
   },

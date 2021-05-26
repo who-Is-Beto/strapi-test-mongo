@@ -67,3 +67,5 @@ describe('Test for auth route', () => {
     done();
   });
 });
+
+module.exports = mockUserData
