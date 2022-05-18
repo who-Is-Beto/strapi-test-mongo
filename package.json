@@ -22,7 +22,7 @@
     "mongodb-memory-server": "^6.9.6",
     "node-mongodb-fixtures": "^3.2.8",
     "puppeteer": "^9.1.1",
-    "strapi": "3.6.2",
+    "strapi": "3.6.10",
     "strapi-admin": "3.6.2",
     "strapi-connector-mongoose": "3.6.2",
     "strapi-plugin-content-manager": "3.6.2",
